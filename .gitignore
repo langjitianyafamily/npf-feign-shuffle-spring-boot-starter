@@ -1,2 +1,7 @@
 /.idea
 /npf-feign-shuffle-spring-boot-starter.iml
+/target/classes/META-INF
+/target/classes/com/niepengfei/boot/feign/shuffle/*.class
+/target/maven-archiver
+/target/maven-status/maven-compiler-plugin/compile/default-compile
+/target
